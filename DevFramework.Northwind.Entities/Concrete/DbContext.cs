@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DevFramework.Northwind.Entities.Concrete
 {
-    public partial class DbStokContext : DbContext
+        public  class DbStokContext : DbContext
     {
         public DbStokContext()
         {

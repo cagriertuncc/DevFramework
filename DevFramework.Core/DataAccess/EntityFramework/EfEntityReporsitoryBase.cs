@@ -1,11 +1,6 @@
 ﻿using DevFramework.Core.Entities;
-using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DevFramework.Core.DataAccess.EntityFramework
 {
